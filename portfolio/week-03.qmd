@@ -1,25 +1,53 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
 ---
 
-## Kompetensi target
+## Konteks dan relationship state
 
-Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Saya dan Rian adalah rekan satu tim untuk proyek tugas akhir semester. Selama dua minggu terakhir, Rian sering mengirimkan revisi tugas dan mendiskusikan materi kelompok di grup obrolan di atas pukul 22.00, lalu meminta tanggapan langsung malam itu juga. Saya merasa waktu istirahat terganggu dan mulai enggan membalas pesannya.
 
-## Evidence wajib
+**State sebelum percakapan:** Hubungan akademik tetap berjalan baik, tetapi timbul ketegangan internal (skor ketegangan 7/10). Saya cenderung menghindari pesan Rian di malam hari (*ghosting*). *Objective* saya adalah menyepakati batas waktu komunikasi (*communication boundary*) tanpa membuat Rian merasa pekerjaannya tidak dihargai.
 
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
+## Potongan transcript
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+> **Saya:** “Rian, aku mau bahas soal alur koordinasi tugas kita. Dalam minggu ini, ada beberapa kali diskusikan revisi lewat dari jam 10 malam dan butuh respon cepat. Itu bikin aku kesulitan untuk istirahat.”  
+> **Rian:** “Maaf ya, soalnya aku baru sempat buka laptop dan cek pekerjaan kelompok malam hari setelah selesai kegiatan UKM.”  
+> **Saya:** “Berarti kamu baru punya waktu luang untuk pengerjaan mandiri di malam hari, betul begitu?”  
+> **Rian:** “Iya, betul. Kalau tidak langsung tak kirim malam itu, aku takut lupa poin revisinya.”  
+> **Saya:** “Aku paham kamu ingin memastikan revisinya tidak terlewat. Namun, aku butuh waktu bebas dari pembahasan tugas setelah jam 21.00. Bisakah kamu tetap kirim catatannya malam hari, tapi diskusinya baru kita lanjutkan besok pagi mulai jam 08.00?”  
+> **Rian:** “Boleh banget, yang penting catatannya sudah masuk dulu biar aku tenang.”
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis listening, boundary, dan repair
+
+Saya memulai percakapan dengan menyampaikan observasi objektif (*pola komunikasi malam hari*), bukan melabeli Rian sebagai orang yang tidak tahu waktu. Melalui proses mendengarkan dan *paraphrase*, saya memahami konteks Rian yang padat dengan kegiatan UKM.
+
+- **Listening:** *Paraphrase* yang saya lakukan membantu mengonfirmasi bahwa kendala utama Rian adalah kekhawatiran lupa poin revisi, bukan sengaja mengganggu jam istirahat.
+- **Boundary:** Batas komunikasi dibuat jelas, yaitu penetapan waktu respons aktif maksimal pukul 21.00.
+- **Request & Agreement:** Permintaan dibuat spesifik: Rian tetap diperbolehkan mengirimkan draf malam hari, namun respons diskusi/revisi dari saya baru akan dilakukan keesokan harinya mulai pukul 08.00.
+- **Repair:** Saya juga melakukan tindakan *repair* dengan menyampaikan: *“Maaf kalau beberapa hari lalu aku sempat lambat membalas tanpa penjelasan terlebih dahulu.”* Rian menerima permintaan maaf tersebut dengan baik.
+
+## Relationship outcome dan evidence
+
+- Tangkapan layar kesepakatan alur komunikasi yang dikonfirmasi kembali di obrolan grup WhatsApp.
+- Catatan observasi pribadi mengenai perubahan tingkat ketegangan emosional yang turun dari 7/10 menjadi 2/10.
+- Evaluasi satu minggu setelah percakapan: Rian tetap mengirimkan draf di malam hari, namun tidak lagi menuntut respons instan, dan diskusi berjalan lancar pada pagi hari sesuai kesepakatan.
+
+*Catatan AI:* AI tidak digunakan dalam penyusunan draf percakapan ini karena menyangkut dinamika interaksi personal secara langsung.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Kebutuhan istirahat dan kendala jadwal rekan sama-sama dipahami |
+| Objective & State | 3 | Ketegangan awal dan penurunan skala stres tercatat |
+| Repertoire, Language & AI | 3 | Menggunakan teknik observasi, paraphrase, boundary, dan repair |
+| Response & Adaptation | 3 | Mengubah aturan dari 'dilarang kirim pesan malam' menjadi 'bebas balas pagi hari' |
+| Agreement, Action & Relationship | 4 | Boundary dan kesepakatan berjalan konsisten selama satu minggu |
+
+**Total: 16/20 — Kompeten.**
