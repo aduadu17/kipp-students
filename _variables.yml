@@ -1,9 +1,9 @@
 student:
-  name: "Nama Mahasiswa"
-  id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  name: "Ragawa Bhramastya Aquila Saksono"
+  id: "18225037"
+  program: "Sistem dan Teknologi Informasi"
+  cohort: "2025"
+  email: "18225037@std.stei.ac.id"
 
 course:
   code: "KIPP-2"
@@ -12,5 +12,5 @@ course:
   semester: "Semester / Tahun Akademik"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  url: "https://github.com/aduadu17/kipp-students"
 
