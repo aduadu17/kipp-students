@@ -1,9 +1,10 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2b"
-subtitle: "Persahabatan dan profesionalitas - target kedua"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026"
+subtitle: "Sesi 2b — Kasus 2: Persahabatan dan Profesionalitas (Target: Elsa)"
+author: "Ragawa Bhramastya Aquila S"
+date: "2026-10-15"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -11,154 +12,101 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2b](../../examples/UTS/hasil_2b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2b: Persahabatan dan profesionalitas - target kedua |
-| Target | [Nama dan ID target kedua sesuai ZIP 2b; berbeda dari 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Ragawa Bhramastya Aquila S |
+| NIM | 18225037 |
+| Kelas dan tanggal | KIPP-01; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 (Persahabatan & Profesionalitas) |
+| Nama dan ID target | Elsa (K2-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; PENUGASAN.md |
+| Modalitas | Teks (Chat) |
+| Kasus nyata/fiktif | Fiktif (Simulasi) |
+| Kelengkapan transkrip | Lengkap (U001-U007 + Uji Ulang) |
+| Nama laporan | hasil_2b_18225037.qmd |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
-
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tugas kelompok memiliki tenggat waktu 48 jam. Elsa (rekan dekat) belum mengumpulkan bagiannya karena kewalahan membantu pekerjaan anggota tim lain yang tidak tercatat. Ragawa perlu mendengarkan kendala Elsa, menetapkan batasan tugas yang jelas (*boundary*), dan memberikan dukungan konkret agar bagian Elsa dapat selesai tepat waktu.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Ancaman:** Beban bantuan luar berlebih. **Kekuatan:** Loyalitas dan empati tinggi. | U001, U002 | Sementara |
+| Attitude | Kooperatif, segan menolak permintaan bantuan orang lain (*harmoni*). | U001 | Sementara |
+| Knowledge | Paham tugasnya, tetapi bingung membagi prioritas akibat interupsi. | U003 | Sementara |
+| Skill | Teliti dalam eksekusi, butuh batasan (*boundary*) pengerjaan. | U002 | Sementara |
+| Preferensi/MBTI | ISFJ (Fokus dukungan, detail, menjaga hubungan baik) | Observasi | Hipotesis |
+| Karakter, peran, kultur | Suportif; mengutamakan kebersamaan tetapi rentan terbebani. | Profil K2-05 | Sementara |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Penyerahan tugas Elsa sesuai tenggat tanpa merasa tertekan | A (Dukungan/Harmoni) | Dengarkan keluhan, atur ulang beban bantuan luar | U003, U004 |
+| Attention | Kewalahan dan merasa bersalah | A (Apresiasi kepedulian) | Berikan empati atas kebaikannya membantu tim | U002 |
+| Interest | Kebingungan membagi fokus | K (Kejelasan struktur) | Buat daftar urutan prioritas tugas yang tegas | U005 |
+| Desire | Khawatir temannya terbengkalai | S (Bantuan koordinasi) | Ambil alih komunikasi bantuan luar | U006 |
+| Action | Mencegah interupsi susulan | A/K/S (Proteksi waktu) | Tetapkan jadwal proteksi *focus time* | Uji Ulang |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
-
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
-
-### U001 - Mahasiswa - [Tahap]
-
-[Tempel pesan mahasiswa persis seperti sumber.]
-
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
-
-[Tempel pesan AI persis seperti sumber.]
-
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+| ID | Tahap | Peserta | Kutipan |
+|---|---|---|---|
+| U001 | Identifikasi | Elsa | "Maaf banget ya Ragawa, draf bagianku belum selesai. Beberapa hari ini aku bantu merapikan format data punya tim sebelah karena mereka kebingungan, jadi waktuku terpotong." |
+| U002 | Respons Awal | Ragawa | "Terima kasih banyak ya Elsa sudah berinisiatif bantu rekan lain. Tapi ingat, bagianmu sendiri juga sangat krusial buat kelompok kita. Yuk kita atur ulang biar kamu bisa fokus menyelesaikan bagianmu." |
+| U003 | Clarifikasi | Elsa | "Aku merasa segan kalau menolak saat mereka minta tolong. Tapi sekarang aku sendiri yang kewalahan karena waktunya tinggal 48 jam." |
+| U004 | Proposal | Ragawa | "Paham banget, rasa kepedulianmu itu luar biasa. Tapi untuk sekarang, biar aku yang koordinasikan bantuan untuk tim sebelah. Kamu fokus penuh di analisis bagianmu saja ya." |
+| U005 | Detail Jadwal | Elsa | "Kalau kamu yang bantu koordinasi ke mereka, aku lega banget. Jadi bagian utama analisis ini targetnya selesai kapan?" |
+| U006 | Kepastian Dukungan | Ragawa | "Target kita bagian analisismu selesai besok jam 12.00 siang. Kalau ada kendala data, langsung beri tahu aku biar kita bedah bareng." |
+| U007 | Konfirmasi | Elsa | "Siap, terima kasih banyak Ragawa atas pengertian dan bantuannya. Aku mulai kerjakan bagianku sekarang." |
+| Uji Ulang | Kendala Baru | Elsa | "Ragawa, ini ada tambahan data rujukan baru yang masuk. Kira-kira perlu aku analisis sekalian atau cukup fokus pada variabel utama?" |
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Ancaman: Terdistraksi beban luar | Membaik: Fokus penuh pada tugas utama | U004–U007 | Simulasi verbal |
+| Attitude | Rasa bersalah dan segan | Berdaya dan merasa didukung | U003, U007 | Komitmen pengerjaan |
+| Knowledge | Bingung membagi prioritas | Jelas mengenai tenggat dan batas tugas | U005, U006 | Jadwal terkonfirmasi |
+| Skill | Kesulitan menetapkan batasan | Mampu berfokus setelah delegasi bantuan diatur | U007, Uji Ulang | Pertanyaan terarah |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
-
-## Pengaruh pesan personal dan kualitas relasi
-
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
-|---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
-
-## Uji ulang dan pembelajaran
-
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| U001–U003 | Attention $\rightarrow$ Interest | Apresiasi empati & penawaran perlindungan beban | Beban emosional berkurang, mau terbuka | A membaik | Mengalihkan tugas bantuan luar |
+| U004–U006 | Interest $\rightarrow$ Desire | Pengambilalihan koordinasi luar & penetapan tenggat | Merasa lega dan meminta target jelas | K & S membaik | Struktur tenggat konkret |
+| Uji Ulang | Action | Mengarahkan fokus pada variabel utama dulu | Menyetujui batasan pengerjaan | A & S konsisten | Proteksi ruang kerja |
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4 | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U006 | Menyepakati penyelesaian draf dalam 24 jam. |
+| Persepsi dan validasi profil/status | 4 | U002 | Mengakui kebaikan Elsa dan memvalidasi kelelahannya. |
+| Pemilihan dan urutan repertoar | 4 | U002–U006 | Urutan: Apresiasi $\rightarrow$ Proteksi Beban $\rightarrow$ Struktur Jadwal. |
+| Eksekusi jelas dan tulus | 4 | U004 | Mengambil alih komunikasi eksternal secara nyata. |
+| Evaluasi dan adaptasi | 4 | Uji Ulang | Memberikan batasan tegas saat muncul tambahan data baru. |
+| Refleksi dan lesson learned | 3 | Refleksi | Memahami pendekatan suportif untuk profil ISFJ. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** 83.33 / 100
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+> "Menghadapi tipe ISFJ seperti Elsa memerlukan validasi atas kepeduliannya terlebih dahulu sebelum menegakkan batasan (*boundary*). Memberikan perlindungan dari interupsi luar membuat mereka merasa aman dan dapat bekerja secara maksimal."
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Langkah | Waktu | Dukungan | Indikator |
+|---|---|---|---|
+| Penyelesaian draf analisis Elsa | 24 jam | Pendampingan internal | Draf terkumpul jam 12.00 |
+| Koordinasi tim eksternal | Langsung | Komunikasi oleh Ragawa | Bantuan luar terkelola |
 
 {{< include "../../includes/uts-penilaian.md" >}}
