@@ -1,9 +1,10 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2a"
-subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026"
+subtitle: "Sesi 2a — Kasus 2: Persahabatan dan Profesionalitas (Target: Dimas)"
+author: "Ragawa Bhramastya Aquila S"
+date: "2026-10-15"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -11,154 +12,101 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Ragawa Bhramastya Aquila S |
+| NIM | 18225037 |
+| Kelas dan tanggal | KIPP-01; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 (Persahabatan & Profesionalitas) |
+| Nama dan ID target | Dimas (K2-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; PENUGASAN.md |
+| Modalitas | Teks (Chat) |
+| Kasus nyata/fiktif | Fiktif (Simulasi) |
+| Kelengkapan transkrip | Lengkap (U001-U007 + Uji Ulang) |
+| Nama laporan | hasil_2a_18225037.qmd |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
-
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tugas kelompok memiliki tenggat waktu 48 jam. Dimas (rekan dekat) belum mengirimkan bagiannya dan merasa pembagian kerja tidak adil. Ragawa perlu melakukan dialog untuk menjaga hubungan persahabatan sekaligus memastikan kesepakatan penyerahan tugas secara tepat waktu.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Ancaman:** Meragukan keadilan beban kerja. **Kekuatan:** Analisis data teknis kuat. | U001, U002 | Sementara |
+| Attitude | Skeptis terhadap klaim, menghargai kejelasan dan otonomi. | U001 | Sementara |
+| Knowledge | Informasi konteks teknis belum lengkap (akses file & lokasi). | U005, U006 | Sementara |
+| Skill | Mampu melakukan analisis mendalam, butuh ruang kerja mandiri. | U002 | Sementara |
+| Preferensi/MBTI | INTJ (Logika ringkas, berbasis bukti, otonom) | Observasi | Hipotesis |
+| Karakter, peran, kultur | Penilai teknis; menghargai alasan kritis dan keadilan objektif. | Profil K2-04 | Sementara |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Kesepakatan pembagian tugas dan tanggung jawab | A (Fairness/Otonomi) | Tawarkan pembagian berbasis kompetensi dan ruang mandiri | U003, U004 |
+| Attention | Skeptis terhadap beban kerja | A (Validasi emosi) | Empati terhadap beban dan waktu analisis | U002 |
+| Interest | Informasi teknis belum lengkap | K (Klarifikasi file) | Sediakan detail akses & file pendukung | U005, U006 |
+| Desire | Kebutuhan ruang kerja mandiri | S (Dukungan teknis) | Berikan akses lokasi & kartu testbed | U007 |
+| Action | Kendala akses lokasi | A/K/S (Adaptasi) | Solusi alternatif (kartu akses tamu) | Uji Ulang |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
-
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
-
-### U001 - Mahasiswa - [Tahap]
-
-[Tempel pesan mahasiswa persis seperti sumber.]
-
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
-
-[Tempel pesan AI persis seperti sumber.]
-
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+| ID | Tahap | Peserta | Kutipan |
+|---|---|---|---|
+| U001 | Identifikasi | Dimas | "Hai. Sebenarnya saya sudah mulai mengerjakan, tapi waktu pengerjaan analisis data memang sangat terbatas. Kalau kamu bilang ada sesuatu yang salah, justru saya rasa yang perlu dicek adalah pembagian beban kerja yang adil. Apakah kamu memiliki data spesifik mengenai pembagian waktu yang tidak seimbang?" |
+| U002 | Respons Awal | Ragawa | "Saya paham, Dimas. Analisis data memang butuh ketelitian dan waktu ekstra. Kita bisa tinjau ulang pembagian beban kerjanya bersama agar benar-benar adil dan kamu tetap punya ruang kerja mandiri yang nyaman." |
+| U003 | Clarifikasi | Dimas | "Tapi 'yang paling jago lawan musuh paling kuat' itu terdengar seperti beban, bukan reward. Saya bukan yang mau selalu mengerjakan yang paling berat demi reward. Saya mau adil dalam pembagian, bukan adil dalam beban." |
+| U004 | Proposal | Ragawa | "Setuju banget. Adil bukan berarti menumpuk beban berat ke satu orang. Bagaimana kalau bagian fungsi pembantu diselesaikan oleh anggota lain, sehingga kamu bisa fokus penuh di arsitektur utama PCI-e sesuai porsi?" |
+| U005 | Detail Teknis | Dimas | "Oke, saya terima pembagian ini. Tapi saya perlu klarifikasi satu hal: 'interface sesuai lampiran gambar 4' itu saya harus bisa akses file gambar 4-nya dulu. Tanpa akses ke file itu saya tidak bisa implementasi standar PCI-e." |
+| U006 | Akses & Timeline | Ragawa | "File lampiran gambar 4 sudah saya unggah ke folder bersama dan link-nya sudah saya kirimkan di grup. Ketersediaan lokasinya juga sudah disiapkan." |
+| U007 | Konfirmasi Lokasi | Dimas | "Oke, saya mau lihat lokasi dulu. Tapi sebelum kita pergi, saya perlu pastikan: apakah kartu akses sudah aktif sekarang? Saya tidak mau buang waktu kalau akses belum jalan." |
+| Uji Ulang | Kendala Akses | Ragawa | "Kartu utama sedang diproses, tetapi untuk sementara kita bisa menggunakan kartu tamu ini agar kamu bisa langsung mulai tanpa membuang waktu." |
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Ancaman: Meragukan pembagian kerja | Membaik: Menyetujui pembagian kerja terstruktur | U004–U005 | Simulasi verbal |
+| Attitude | Skeptis dan defensif | Lebih terbuka dan fokus pada eksekusi | U003, U004 | Butuh pembuktian akses file |
+| Knowledge | Informasi konteks belum lengkap | Mendapatkan kejelasan file dan lokasi | U005, U006 | Akses terkonfirmasi |
+| Skill | Perlu ruang kerja mandiri | Teratasi dengan penyediaan fasilitas | U007, Uji Ulang | Solusi kartu tamu |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
-
-## Pengaruh pesan personal dan kualitas relasi
-
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
-|---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
-
-## Uji ulang dan pembelajaran
-
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| U001–U003 | Attention $\rightarrow$ Interest | Validasi perasaan, penyesuaian definisi keadilan | Defensivitas berkurang, terbuka pada diskusi | A membaik | Mengubah narasi beban kerja |
+| U004–U006 | Interest $\rightarrow$ Desire | Kejelasan pembagian tugas, link file lampiran | Meminta kepastian akses teknis | K & S membaik | Klarifikasi detail teknis |
+| Uji Ulang | Action | Solusi kartu akses tamu sementara | Menerima solusi dan fokus pengerjaan | A & S stabil | Adaptasi kendala fasilitas |
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4 | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U004 | Pembagian kerja objektif disepakati dalam tenggat 48 jam. |
+| Persepsi dan validasi profil/status | 4 | U002 | Validasi emosi dan pengakuan atas beban analisis Dimas. |
+| Pemilihan dan urutan repertoar | 4 | U002–U007 | Urutan terstruktur: Empati $\rightarrow$ Penyesuaian Beban $\rightarrow$ Akses Teknis. |
+| Eksekusi jelas dan tulus | 4 | U006, Uji Ulang | Menyediakan file dan solusi kartu tamu secara konkret. |
+| Evaluasi dan adaptasi | 4 | Uji Ulang | Menjawab kendala akses instan dengan opsi kartu tamu. |
+| Refleksi dan lesson learned | 3 | Refleksi | Memahami pentingnya logika logis dan otonomi bagi profil INTJ. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** 83.33 / 100
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+> "Komunikasi dengan tipe INTJ seperti Dimas membutuhkan argumen berbasis logika yang adil, bukan sekadar pujian emosional. Menghargai otonomi dan memberikan kepastian pendukung teknis (file & akses) sangat penting untuk menurunkan defensivitas."
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Langkah | Waktu | Dukungan | Indikator |
+|---|---|---|---|
+| Pengerjaan arsitektur PCI-e | 24 jam | Testbed & Kartu Tamu | Draf selesai & diuji |
+| Integrasi akhir kelompok | 12 jam sebelum deadline | Folder bersama | Dokumen lengkap |
 
 {{< include "../../includes/uts-penilaian.md" >}}
