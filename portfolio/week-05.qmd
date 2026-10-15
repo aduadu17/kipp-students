@@ -1,25 +1,47 @@
 ---
-title: "Professional Discovery Interview"
-week: 5
-status: "Belum dimulai"
-self_score: "—"
+title: "Five-Language Translation Portfolio"
+week: 4
+status: "Siap dinilai"
+self_score: "16/20"
 assessor_score: "—"
-description: "Discovery menuju shared problem statement."
-categories: [Professional, Discovery]
+description: "Satu meaning untuk lima person atau character."
+categories: [Fondasi, Language]
 ---
 
-## Kompetensi target
+## Core meaning
 
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+**Fakta utama yang tidak boleh berubah:** Pemeliharaan rutin server LMS (*Learning Management System*) kampus dilakukan pada hari Sabtu pukul 20.00–23.00 WIB. Selama periode tersebut, layanan pengumpulan tugas dan kuis di-nonaktifkan sementara. Pengguna disarankan menyelesaikan pengunggahan sebelum pukul 20.00 WIB. Layanan bantuan tersedia melalui Helpdesk IT Kampus.
 
-## Evidence wajib
+| Target / character | Versi language | Alasan adaptasi |
+|---|---|---|
+| **Friend** | “Eh, Sabtu malam jam 8 sampai 11 LMS kampus mau ada *maintenance* server. Kalau ada tugas yang deadline-nya Sabtu malam, mending lu submit sebelum jam 8 deh biar nggak kerepotan.” | Bahasa santai, ramah, dan langsung memberikan saran tindakan praktis. |
+| **Technical peer** | “*Scheduled downtime* server LMS Sabtu pukul 20.00–23.00 WIB untuk pemeliharaan rutin database dan *security patch*. Akses HTTP/API kuis dan *submission* ditutup sementara selama *window maintenance*.” | Menggunakan istilah teknis (*downtime*, *security patch*, *window maintenance*) agar jelas bagi sesama pengembang/admin. |
+| **Manager / Dosen** | “Sehubungan dengan pemeliharaan rutin server LMS pada Sabtu pukul 20.00–23.00 WIB, fasilitas pengumpulan tugas akan nonaktif sementara. Kami mengusulkan penyesuaian batas akhir kuis menjadi pukul 23.59 agar tidak merugikan mahasiswa.” | Berfokus pada dampak operasional, mitigasi risiko, dan usulan tindakan penetapan keputusan. |
+| **Customer / Student user** | “Layanan LMS kampus tidak dapat diakses sementara pada Sabtu pukul 20.00–23.00 WIB karena pemeliharaan sistem. Mohon unggah tugas Anda sebelum pukul 20.00 WIB. Jika mengalami kendala, silakan hubungi Helpdesk IT.” | Bahasa informatif, jelas, langsung mengarahkan instruksi langkah aksi pengguna (*call-to-action*) tanpa istilah teknis yang rumit. |
+| **Public** | “Pengumuman: Layanan LMS Kampus akan mengalami pemeliharaan sistem pada Sabtu pukul 20.00–23.00 WIB. Mohon maaf atas ketidaknyamanannya dan silakan rencanakan aktivitas belajar Anda.” | Bahasa formal, padat, cocok untuk kanal umum/media sosial tanpa membagikan rincian teknis internal. |
 
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+## Evidence understanding
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+Saya menguji versi **Customer / Student user** kepada satu kawan mahasiswa tanpa memberikan penjelasan awal. 
 
-{{< include ../includes/evidence-template.md >}}
+- **Tanggapan awal:** Kawan memahami bahwa LMS akan mati di Sabtu malam jam 20.00–23.00 WIB dan tahu harus mengunggah tugas sebelum jam 20.00 WIB.
+- **Pertanyaan kawan:** *“Kalau kuis yang sedang dikerjakan tepat jam 20.00 gimana, apakah tersimpan otomatis?”*
+- **Penyesuaian kalimat:** Berdasarkan masukan tersebut, saya memperbarui kalimat menjadi: *“Mohon unggah tugas dan simpan kuis Anda sebelum pukul 20.00 WIB agar draf jawaban tidak hilang.”* Perubahan ini memperjelas antisipasi risiko tanpa mengubah fakta inti.
+
+## Analisis dan batas
+
+Variasi gaya bahasa disesuaikan dengan kebutuhan dan konteks audiens. Penggunaan bahasa yang terlalu teknis kepada mahasiswa umum justru berisiko membingungkan, sedangkan penyampaian yang terlalu santai kepada dosen terkesan tidak profesional.
+
+**Penggunaan AI:** AI digunakan untuk melakukan verifikasi konsistensi fakta (*fact-checking*) di kelima versi kalimat. AI memastikan tanggal, durasi, dan instruksi utama tidak menyimpang. Tautan/fakta tambahan dari AI yang tidak didukung data resmi langsung dihapus.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Lima target dipetakan sesuai karakteristik dan tingkat kejelasan yang dibutuhkan |
+| Objective & State | 3 | Informasi inti dan pesan instruksi tetap konsisten di semua versi |
+| Repertoire, Language & AI | 4 | Lima adaptasi bahasa disertai alasan kuat dan kontrol AI yang jelas |
+| Response & Adaptation | 3 | Pertanyaan uji coba audiens menghasilkan klarifikasi pada instruksi kuis |
+| Agreement, Action & Relationship | 3 | Instruksi tenggat waktu dan saluran bantuan dinyatakan dengan tegas |
+
+**Total: 16/20 — Kompeten.**

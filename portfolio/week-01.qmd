@@ -1,25 +1,59 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
 ---
 
-## Kompetensi target
+## Lima character
 
-Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| Intra-Self — pembelajar mandiri | Diri sendiri setelah mendapat evaluasi tugas | Memahami kekurangan tanpa merasa gagal total | Catatan reflektif; “Bagian mana yang bisa saya tingkatkan?” | Self-blame; catat dua poin positif sebelum mencari kekurangan |
+| Family — anak/kakak | Adik yang sedang bingung memilih jurusan | Membantu mengeksplorasi pilihan tanpa memaksakan kehendak | Pertanyaan terbuka; “Apa yang bikin kamu paling tertarik dari pilihan itu?” | Menggurui; tanyakan dulu “Mau didengar atau mau minta saran?” |
+| Work/Academic — anggota kelompok | Tiga rekan kelompok mata kuliah | Menyelesaikan bagian tugas tepat waktu dan menjaga alur komunikasi | Check-in, konfirmasi tertulis; “Gimana progres bagianmu, ada kendala?” | Berasumsi teman paham; buat tenggat dan kejelasan bagian tugas |
+| Community — staf acara UKM | Koordinator divisi dan sesama anggota | Menjalankan jobdesk teknis sesuai rundown | Reconfirm, checklist; “Untuk bagian ini sudah clear sesuai jadwal ya?” | Pasif menunggu arahan; inisiatif bertanya jika ada instruksi ambigu |
+| Friends — sahabat | Teman dekat yang sedang kewalahan kuliah | Memberikan ruang aman untuk bercerita | Empati, listening; “Kamu butuh tempat cerita atau butuh bantuan solusi?” | Terlalu cepat memberi saran; fokus dengarkan dulu sampai selesai |
 
-## Evidence wajib
+## Episode yang dianalisis
 
-- Lima character dari sedikitnya tiga domain kehidupan.
-- Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
+**Konteks:** Saat kerja kelompok, salah satu anggota belum mengirimkan draf bagiannya padahal sudah mendekati batas waktu penyerahan. Awalnya muncul asumsi bahwa ia menunda pekerjaan. Fakta yang ada: draf belum diunggah ke dokumen bersama.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**Objective:** Mendapatkan kejelasan progres dan menentukan langkah penyelesaian bersama tanpa merusak hubungan kelompok.
 
-{{< include ../includes/evidence-template.md >}}
+> **Saya:** “Halo, untuk draf bagian 2 ada kendala di penyusunannya? Biar bisa kita rapikan bareng sebelum jam 8 malam.”  
+> **Rekan:** “Maaf banget, aku sempat bingung olah data grafik di bagian metode.”  
+> **Saya:** “Oke, paham. Mau kita bagi dua olah datanya, atau kamu mau pakai contoh format yang sudah ada?”  
+> **Rekan:** “Boleh tolong kirim contoh formatnya? Nanti datanya langsung aku masukin sekarang.”
+
+Respon tersebut mengubah pendekatan dari sekadar menagih menjadi penyelesaian masalah bersama (*problem-solving*). Kesepakatan akhir: contoh format dikirim, dan draf diselesaikan dalam waktu satu jam.
+
+## Perubahan language
+
+Saat menjadi **sahabat**, bahasa yang digunakan lebih kasual dan berfokus pada emosi: *“Tenang aja, cerita aja dulu, nggak usah mikirin tugasnya sekarang.”*  
+
+Saat menjadi **anggota kelompok**, bahasa bergeser menjadi lebih terstruktur dan berfokus pada kejelasan tindakan: *“Agar dokumen bisa kita edit bareng, kira-kira bagian ini bisa selesai jam berapa?”*  
+
+Maksud utamanya tetap sama (peduli dan ingin membantu), tetapi tanggung jawab dan fokus aksinya disesuaikan dengan peran.
+
+## Evidence, AI, dan feedback
+
+- Evidence: Tangkapan layar chat koordinasi kelompok di WhatsApp dan riwayat komit/edit dokumen bersama.
+- AI digunakan untuk memeriksa kelancaran tata bahasa dan kejelasan kalimat dalam draf refleksi ini. Data pribadi dan nama rekan disamarkan.
+- Feedback rekan kelompok: Cara bertanya dinilai cukup tenang dan fokus pada solusi, tidak terkesan menyalahkan.
+- Rencana latihan berikutnya: Menahan diri 5 detik sebelum membalas pesan saat terjadi kendala di kelompok.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Person & Character | 3 | Karakter dan domain kehidupan dipetakan secara jelas |
+| Objective & State | 3 | Tujuan komunikasi dan perubahan situasi terdefinisi |
+| Repertoire, Language & AI | 3 | Perbedaan gaya bahasa sesuai peran dan penggunaan AI transparan |
+| Response & Adaptation | 3 | Mampu beradaptasi dari asumsi awal menuju solusi bersama |
+| Agreement, Action & Relationship | 3 | Menghasilkan kesepakatan konkret dan menjaga hubungan |
+
+**Total: 15/20 — Kompeten.** Belum mencapai tingkat 4 karena analisis dinamika kekuasaan (*power*) dalam kelompok belum dibahas secara mendalam.

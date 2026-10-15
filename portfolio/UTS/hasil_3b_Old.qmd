@@ -1,0 +1,164 @@
+---
+title: "Laporan UTS KIPP 2026"
+subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI dan AI (Target: Bambang)"
+author: "Ragawa Bhramastya Aquila S"
+date: "2026-10-15"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ragawa Bhramastya Aquila S |
+| NIM | 18225037 |
+| Kelas | KIPP-01 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - target kedua |
+| Target | Bambang (K3-02) |
+| Versi bank/paket | Bank 2.0; paket 2.0; PENUGASAN.md |
+| Sumber penugasan | paket_18225037.zip; PENUGASAN.md |
+| Modalitas | Teks (Chat) |
+| Konteks nyata/fiktif | Fiktif (Simulasi) |
+| Kelengkapan transkrip | Lengkap (U001-U007 + Uji Ulang) |
+| Nama laporan menurut paket | hasil_3b_18225037.qmd |
+| Konfirmasi identitas/ringkasan | S3B-18225037-CONFIRMED |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Customer (Bambang) mengelola operasional bisnis dengan skala pesanan yang mulai meningkat, namun sering terkendala keterlambatan respons dan risiko pesanan tercecer. Bambang sangat berorientasi pada efisiensi biaya, kecepatan eksekusi, serta keandalan data sebelum membuat keputusan. Ragawa bertugas menggali kebutuhan teknis, menyajikan kalkulasi efisiensi secara objektif, dan menyepakati skenario uji coba terbatas yang terukur.
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Menyepakati uji coba 7 hari alur rekap pesanan otomatis berbasis AI dengan indikator efisiensi waktu dan akurasi data terukur. |
+| Keadaan awal | Staf kewalahan rekap pesanan saat jam sibuk; ragu terhadap efisiensi dan takut data semrawut (U001, U003). |
+| Indikator keberhasilan | Waktu rekap turun dari 15 menit ke <1 menit/transaksi; penghematan 20 jam kerja/minggu; laporan harian jam 17.00 terkirim (U002, U004, U007). |
+| Batas dan pilihan target | Tidak memaksakan pembelian lisensi penuh secara langsung; fokus pada uji coba 1 alur terbatas (U006). |
+| Tenggat | Uji coba 7 hari dimulai Senin depan; pengiriman laporan evaluasi harian setiap jam 17.00 WIB (U007). |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | **Kekuatan:** Paham kalkulasi ROI & alur AI. **Keterbatasan:** Menahan diri dari istilah rumit. **Peluang:** Bisnis target berkembang. **Ancaman:** Resistensi jika sistem mengganggu staf. | U002, U004 | Terkonfirmasi dalam simulasi |
+| Attitude | Asertif, rasional, *to-the-point*, menghargai efisiensi waktu lawan bicara. | U002 | Terkonfirmasi |
+| Knowledge | Memahami mekanisme otomatisasi AI, estimasi efisiensi jam kerja, dan fitur verifikasi otomatis. | U004, U006 | Terkonfirmasi |
+| Skill | Mampu menyusun argumen kuantitatif, bernegosiasi berbasis data, dan adaptasi alur cepat. | U004, Uji Ulang | Terkonfirmasi |
+| Preferensi/MBTI jika dilaporkan | ENTJ / NT (Analitis, logis, terstruktur, berorientasi hasil) | Laporan Diri | Laporan Diri |
+| Peran, karakter, kultur/ko-kultur | Konsultan solusi TI/AI mahasiswa ITB; lugas, profesional, dan berbasis bukti rasional. | Profil Mahasiswa | Terkonfirmasi |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Kesepakatan uji coba 7 hari dengan indikator efisiensi & akurasi terukur | A (Efisiensi/Kepastian) | Tawarkan kalkulasi rasional dan skenario uji coba terbatas | U004, U006 |
+| Attention | Mempertanyakan biaya & efisiensi langsung | A (Validasi fokus bisnis) | Langsung jawab aspek penghematan waktu & biaya | U002 |
+| Interest | Minta bukti konkret penghematan | K (Estimasi ROI jam kerja) | Sajikan perbandingan jam kerja manual vs AI (15 menit vs <1 menit) | U004 |
+| Desire | Khawatir risiko kesalahan data | S (Kontrol & Fitur verifikasi) | Berikan skenario pengujian 1 alur dengan laporan harian jam 17.00 | U006 |
+| Action | Kendala masukan data saat jam sibuk | A/K/S (Adaptasi cepat) | Sediakan format formulir ringkas 3 kolom utama | Uji Ulang |
+
+# C) Skrip Percakapan
+
+### U001 - Bambang - Identifikasi
+"Selamat siang. Langsung saja, tim operasional saya sering kewalahan rekap pesanan di jam sibuk. Tapi kalau mau pasang sistem TI/AI baru, berapa penghematan biayanya dan apa jaminan sistem ini tidak bikin rincian pesanan makin semrawut?"
+
+### U002 - Ragawa - Respons Awal
+"Selamat siang Pak Bambang. Fokus Pak Bambang pada efisiensi biaya dan akurasi data sangat tepat. Solusi AI ini difokuskan memotong waktu rekap pesanan dari 15 menit menjadi di bawah 1 menit per transaksi, sehingga menurunkan risiko pesanan tercecer hingga mendekati nol."
+
+### U003 - Bambang - Clarifikasi
+"Angka 1 menit itu bagus di atas kertas. Tapi berapa persentase penurunan biaya operasional bulanan yang bisa saya dapatkan secara riil?"
+
+### U004 - Ragawa - Proposal
+"Berdasarkan kalkulasi alur 50 pesanan per hari, otomatisasi ini menghemat sekitar 20 jam kerja staf per minggu. Waktu tersebut bisa dialokasikan penuh untuk pengemasan dan pengiriman tanpa perlu menambah personel baru."
+
+### U005 - Bambang - Detail Teknis
+"Sistemnya masuk akal. Tapi bagaimana kalau di tengah jalan ada kesalahan baca format pesanan dari pelanggan?"
+
+### U006 - Ragawa - Kepastian Dukungan
+"Kita terapkan fungsi verifikasi otomatis: setiap pesanan yang dibaca AI akan menampilkan draf konfirmasi ringkas sebelum diproses. Kita bisa jalankan uji coba 7 hari khusus untuk alur rekap pesanan ini lengkap dengan laporan kinerja harian."
+
+### U007 - Bambang - Konfirmasi
+"Bagus. Saya terima opsi uji coba 7 hari mulai Senin depan, dengan syarat laporan evaluasi waktu dan akurasi dikirimkan ke saya setiap jam 17.00."
+
+### Uji Ulang - Bambang - Kendala Baru
+"Ragawa, di hari kedua uji coba, staf lapangan mengeluh agak kerepotan mengisi format data pelanggan yang terlalu panjang saat toko ramai. Ada solusi cepatnya?"
+
+### Uji Ulang Respons - Ragawa - Adaptasi
+"Paham Pak Bambang. Kita langsung sederhanakan formulir input staf menjadi 3 kolom utama saja (Nama, No HP, Pesanan), sementara rincian alamat dan catatan otomatis dilengkapi oleh AI. Dengan begitu waktu input staf di lapangan terpangkas menjadi di bawah 10 detik."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Ancaman: Takut biaya mahal & data semrawut | Membaik: Menyetujui uji coba 7 hari berbasis metrik | U004–U007 | Simulasi verbal |
+| Attitude | Skeptis dan menuntut bukti kuantitatif | Yakin setelah melihat kalkulasi ROI & fitur kontrol | U003, U007 | Komitmen uji coba |
+| Knowledge | Belum paham estimasi efisiensi AI | Paham perbandingan penghematan jam kerja | U004, U005 | Angka terkonfirmasi |
+| Skill/kesiapan | Ragu dengan keandalan sistem | Menyetujui skema laporan evaluasi harian jam 17.00 | U007, Uji Ulang | Laporan harian terstruktur |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U001–U003 | Attention $\rightarrow$ Interest | Penyampaian data efisiensi secara langsung (*to-the-point*) | Skeptis berkurang, meminta persentase riil | A membaik | Menyajikan estimasi ROI jam kerja |
+| U004–U006 | Interest $\rightarrow$ Desire | Kalkulasi penghematan 20 jam/minggu & fitur verifikasi | Menanyakan transparansi kontrol data | K & S membaik | Penawaran laporan evaluasi harian |
+| Uji Ulang | Action | Penyederhanaan format formulir menjadi 3 kolom utama | Menyetujui penyesuaian alur di lapangan | A & S konsisten | Adaptasi cepat pada kendala staf |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | Validasi fokus bisnis pada efisiensi & akurasi | Keterbukaan menyampaikan keraguan | Rasa aman terbangun; komunikasi lugas | A membaik; terbukti pada U003 |
+| U006 | Penawaran fitur verifikasi & garansi uji coba 7 hari | Menyetujui uji coba secara penuh | Kepercayaan pada keandalan sistem meningkat | K & S membaik; terbukti pada U007 |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Staf lapangan merasa formulir data pelanggan terlalu panjang saat toko ramai (Uji Ulang). |
+| Respons awal dibanding uji ulang | U002 fokus pada angka makro; Uji Ulang merespons kendala mikrostaf secara taktis. |
+| Revisi rencana/dukungan | Menyederhanakan formulir input menjadi 3 kolom utama dan menyerahkan pemrosesan sisanya ke AI. |
+| Indikator perbaikan | Staf dapat mengisi data dalam waktu <10 detik tanpa menghambat pelayanan di kasir. |
+| Transfer dan keterbatasan | Terbukti fleksibel merancang solusi operasional, namun perlu dipantau saat lonjakan pesanan riil. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U007 | Menyepakati uji coba 7 hari dengan indikator evaluasi harian terukur. |
+| Persepsi dan validasi profil/status | 4 | U002 | Memvalidasi fokus Pak Bambang pada efisiensi biaya dan akurasi operasional. |
+| Pemilihan dan urutan repertoar | 4 | U002–U006 | Urutan: *To-the-point* $\rightarrow$ Kalkulasi ROI $\rightarrow$ Fitur Kontrol & Laporan. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U004 | Menyajikan angka estimasi rasional tanpa janji berlebihan. |
+| Evaluasi dan adaptasi | 4 | Uji Ulang | Mengatasi kendala staf dengan menyederhanakan formulir menjadi 3 kolom. |
+| Refleksi dan lesson learned | 3 | Refleksi | Memahami gaya komunikasi berbasis data dan efisiensi untuk profil ESTJ. |
+
+**Nilai sesi:** 83.33 / 100 (Skor total: 23 / 24).
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Awalnya mengira Pak Bambang menolak karena faktor biaya lisensi, ternyata keberatan utamanya adalah risiko gangguan akurasi data operasional.
+- **Stimulus efektif/tidak efektif:** Penjelasan konseptual tidak efektif; angka penghematan 20 jam kerja/minggu dan skema laporan harian jam 17.00 sangat efektif.
+- **Pertumbuhan PASK/ASK diri:** Meningkatkan keterampilan menyusun argumen bisnis berbasis data (*ROI*) serta kemampuan adaptasi cepat dalam merancang antarmuka input data.
+- **Relasi:** Gaya komunikasi yang lugas dan tidak bertele-tele membangun kepercayaan tinggi pada tipe ESTJ.
+- **Preferensi, peran, budaya:** Menghadapi profil ESTJ menuntut komunikator untuk langsung menyampaikan poin utama (*bottom-line first*) dan menyajikan mekanisme kontrol yang terukur.
+- **Pelajaran untuk situasi berikutnya:** Selalu siapkan kalkulasi dampak operasional kuantitatif sebelum mempresentasikan solusi teknis kepada pengambil keputusan.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Pelaksanaan Uji Coba 7 Hari | Ragawa & Bambang | Senin depan | Prototipe rekap AI | Rekap pesanan selesai <1 menit | Terjadwal |
+| Pengiriman Laporan Harian | Ragawa | Tiap jam 17.00 WIB | Ringkasan metrik | Dokumen evaluasi terkirim | Terjadwal |
+
+**Konfirmasi akhir:** S3B-18225037-CONFIRMED-FULL
+
+{{< include "../../includes/uts-penilaian.md" >}}

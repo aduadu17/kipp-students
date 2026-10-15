@@ -1,0 +1,112 @@
+---
+title: "Laporan UTS KIPP 2026"
+subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI dan AI (Target: Bambang)"
+author: "Ragawa Bhramastya Aquila S"
+date: "2026-10-15"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ragawa Bhramastya Aquila S |
+| NIM | 18225037 |
+| Kelas dan tanggal | KIPP-01; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 (Menawarkan Solusi TI dan AI) |
+| Nama dan ID target | Bambang (K3-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; PENUGASAN.md |
+| Modalitas | Teks (Chat) |
+| Kasus nyata/fiktif | Fiktif (Simulasi) |
+| Kelengkapan transkrip | Lengkap (U001-U007 + Uji Ulang) |
+| Nama laporan | hasil_3b_18225037.qmd |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Customer (Bambang) mengelola operasional bisnis dengan skala pesanan yang mulai meningkat, namun sering terkendala keterlambatan respons dan risiko pesanan tercecer. Bambang sangat berorientasi pada efisiensi biaya, kecepatan eksekusi, serta keandalan data sebelum membuat keputusan. Ragawa bertugas menggali kebutuhan teknis, menyajikan kalkulasi efisiensi secara objektif, dan menyepakati skenario uji coba terbatas yang terukur.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | **Ancaman:** Biaya investasi awal & risiko kegagalan sistem. **Kekuatan:** Kecepatan eksekusi operasional. | U001, U003 | Sementara |
+| Attitude | Lugas, tegas, mengutamakan data rasional, dan berorientasi hasil. | U001 | Sementara |
+| Knowledge | Mengetahui kendala operasional toko, belum memahami kalkulasi estimasi otomatisasi AI. | U003 | Sementara |
+| Skill | Pengawasan operasional ketat, butuh indikator kuantitatif yang jelas. | U002 | Sementara |
+| Preferensi/MBTI | ESTJ (Praktis, logis, terstruktur, berbasis bukti kuantitatif) | Observasi | Hipotesis |
+| Karakter, peran, kultur | Pengelola operasional yang tegas; menyukai komunikasi langsung dan fakta terukur. | Profil K3-02 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Kesepakatan uji coba 7 hari dengan indikator efisiensi waktu & akurasi data | A (Efisiensi) | Tawarkan kalkulasi rasional dan skenario uji coba terbatas | U004, U006 |
+| Attention | Mempertanyakan biaya & efisiensi langsung | A (Validasi fokus bisnis) | Langsung jawab aspek penghematan waktu & biaya | U002 |
+| Interest | Minta bukti konkret penghematan | K (Estimasi efisiensi) | Sajikan perbandingan jam kerja manual vs AI | U004 |
+| Desire | Khawatir risiko integrasi & gangguan data | S (Kontrol & Laporan harian) | Berikan skenario pengujian 1 alur dengan laporan harian | U006 |
+| Action | Kendala masukan data saat jam sibuk | A/K/S (Adaptasi) | Sediakan format formulir ringkas 3 kolom | Uji Ulang |
+
+# C) Skrip Percakapan
+
+| ID | Tahap | Peserta | Kutipan |
+|---|---|---|---|
+| U001 | Identifikasi | Bambang | "Selamat siang. Langsung saja, tim operasional saya sering kewalahan rekap pesanan di jam sibuk. Tapi kalau mau pasang sistem TI/AI baru, berapa penghematan biayanya dan apa jaminan sistem ini tidak bikin rincian pesanan makin semrawut?" |
+| U002 | Respons Awal | Ragawa | "Selamat siang Pak Bambang. Fokus Pak Bambang pada efisiensi biaya dan akurasi data sangat tepat. Solusi AI ini difokuskan memotong waktu rekap pesanan dari 15 menit menjadi di bawah 1 menit per transaksi, sehingga menurunkan risiko pesanan tercecer hingga mendekati nol." |
+| U003 | Clarifikasi | Bambang | "Angka 1 menit itu bagus di atas kertas. Tapi berapa persentase penurunan biaya operasional bulanan yang bisa saya dapatkan secara riil?" |
+| U004 | Proposal | Ragawa | "Berdasarkan kalkulasi alur 50 pesanan per hari, otomatisasi ini menghemat sekitar 20 jam kerja staf per minggu. Waktu tersebut bisa dialokasikan penuh untuk pengemasan dan pengiriman tanpa perlu menambah personel baru." |
+| U005 | Detail Teknis | Bambang | "Sistemnya masuk akal. Tapi bagaimana kalau di tengah jalan ada kesalahan baca format pesanan dari pelanggan?" |
+| U006 | Kepastian Dukungan | Ragawa | "Kita terapkan fungsi verifikasi otomatis: setiap pesanan yang dibaca AI akan menampilkan draf konfirmasi ringkas sebelum diproses. Kita bisa jalankan uji coba 7 hari khusus untuk alur rekap pesanan ini lengkap dengan laporan kinerja harian." |
+| U007 | Konfirmasi | Bambang | "Bagus. Saya terima opsi uji coba 7 hari mulai Senin depan, dengan syarat laporan evaluasi waktu dan akurasi dikirimkan ke saya setiap jam 17.00." |
+| Uji Ulang | Kendala Baru | Bambang | "Ragawa, di hari kedua uji coba, staf lapangan mengeluh agak kerepotan mengisi format data pelanggan yang terlalu panjang saat toko ramai. Ada solusi cepatnya?" |
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Ancaman: Takut biaya tinggi & data semrawut | Membaik: Menyetujui uji coba 7 hari berbasis laporan metrik | U004–U007 | Simulasi verbal |
+| Attitude | Skeptis dan menuntut bukti kuantitatif | Yakin setelah melihat kalkulasi efisiensi & kontrol data | U003, U007 | Komitmen uji coba |
+| Knowledge | Belum paham estimasi efisiensi AI | Paham perbandingan penghematan jam kerja | U004, U005 | Angka terkonfirmasi |
+| Skill | Butuh indikator pengawasan harian | Menyetujui skema laporan evaluasi harian | U007, Uji Ulang | Laporan harian jam 17.00 |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U001–U003 | Attention $\rightarrow$ Interest | Penyampaian data efisiensi langsung | Skeptis berkurang, meminta persentase riil | A membaik | Menyajikan estimasi efisiensi jam kerja |
+| U004–U006 | Interest $\rightarrow$ Desire | Kalkulasi penghematan 20 jam/minggu & fitur verifikasi | Menanyakan transparansi kontrol | K & S membaik | Penawaran laporan evaluasi harian |
+| Uji Ulang | Action | Penyederhanaan format formulir menjadi 3 kolom utama | Menyetujui penyesuaian alur di lapangan | A & S konsisten | Adaptasi cepat pada kendala staf |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4 | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U007 | Menyepakati uji coba 7 hari dengan indikator evaluasi harian terukur. |
+| Persepsi dan validasi profil/status | 4 | U002 | Memvalidasi fokus Bambang pada efisiensi biaya dan akurasi operasional. |
+| Pemilihan dan urutan repertoar | 4 | U002–U006 | Urutan: Langsung ke poin utama $\rightarrow$ Kalkulasi Efisiensi $\rightarrow$ Penawaran Kontrol Verifikasi. |
+| Eksekusi jelas dan tulus | 4 | U004 | Menyajikan angka estimasi rasional tanpa janji berlebihan. |
+| Evaluasi dan adaptasi | 4 | Uji Ulang | Mengatasi kendala pengisian data staf dengan menyederhanakan formulir 3 kolom. |
+| Refleksi dan lesson learned | 3 | Refleksi | Memahami gaya komunikasi berbasis data dan efisiensi untuk profil ESTJ. |
+
+**Nilai sesi:** 83.33 / 100
+
+## Refleksi dan lesson learned mahasiswa
+
+> "Menghadapi tipe ESTJ seperti Pak Bambang membutuhkan gaya komunikasi yang lugas, tidak bertele-tele, serta didukung kalkulasi rasional (seperti penghematan jam kerja) serta skema kontrol yang terukur."
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Waktu | Dukungan | Indikator |
+|---|---|---|---|
+| Pelaksanaan Uji Coba 7 Hari | Senin depan | Prototipe rekap AI | Uji coba berjalan lancar |
+| Pengiriman laporan evaluasi harian | Setiap jam 17.00 | Ringkasan metrik | Dokumen laporan terkirim |
+
+{{< include "../../includes/uts-penilaian.md" >}}

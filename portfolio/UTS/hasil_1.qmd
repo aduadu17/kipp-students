@@ -1,0 +1,204 @@
+---
+title: "Laporan UTS KIPP 2026"
+subtitle: "Sesi 1 — Kasus 1: Memimpin Diri dan Terus Belajar"
+author: "Ragawa Bhramastya Aquila S"
+date: "2026-10-15"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ragawa Bhramastya Aquila S |
+| NIM | 18225037 |
+| Kelas | KIPP-01 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
+| Target utama | Diri mahasiswa |
+| Tokoh pembanding | Budi (ID: K1-02) |
+| Versi bank/paket | Bank 2.0; paket 2.0 |
+| Sumber penugasan | kasus_1_18225037.zip / PENUGASAN.md |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata (Refleksi diri dan rencana pengembangan kemampuan manajemen fokus) |
+| Kelengkapan transkrip | Lengkap (12 pasangan giliran komunikasi) |
+| Nama laporan menurut paket | hasil_1_18225037.qmd |
+| Konfirmasi identitas/ringkasan | U001–U012 |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief Kasus:** Memilih satu kemampuan inti yang ingin dikembangkan agar bermanfaat dalam perkuliahan dan karier, serta menganalisis cara memimpin diri sendiri saat menghadapi hambatan belajar dan gangguan fokus.
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Menyusun prototipe sistem manajemen waktu belajar mandiri dan meningkatkan fokus pengerjaan tugas tanpa terdistraksi dalam 14 hari ke depan. |
+| Keadaan awal | Sering mengalami distraksi dari komitmen luar dan kesulitan memprioritaskan tugas saat beban kerja meningkat. |
+| Indikator keberhasilan | Berhasil membatasi waktu belajar fokus (*deep work*) minimal 2 jam per hari tanpa membuka media sosial/obrolan non-akademik, serta menyelesaikan draf tugas tepat waktu. |
+| Batas dan pilihan target | Menghormati ritme kerja pribadi tanpa memaksakan standar ekstrem yang memicu *burnout*. |
+| Tenggat | 29 Oktober 2026 (14 hari sejak sesi dimulai). |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | **Kekuatan:** Kemampuan analisis tinggi. **Keterbatasan:** Mudah terdistraksi oleh proyek baru. **Peluang:** Penggunaan alat bantu AI. **Ancaman:** Beban organisasi berlebih. | U002 | Laporan diri |
+| Attitude | Komitmen tinggi pada hasil kerja, tetapi rentan cemas jika jadwal terganggu. | U004 | Laporan diri |
+| Knowledge | Memahami teknik *time-blocking* dan alur *problem-solving*, namun kurang konsisten dalam eksekusi. | U006 | Laporan diri |
+| Skill | Mampu menyusun alur kerja terstruktur, memerlukan latihan dalam menolak permintaan tambahan (*assertiveness*). | U008 | Peragaan verbal |
+| Preferensi/MBTI jika dilaporkan | INTJ (Laporan mandiri) | U002 | Laporan diri |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa Teknik Informatika yang terbiasa dengan metode kerja sistematis. | U001 | Konteks akademik |
+
+## Dugaan awal profil target dan rencana (Pembanding: Budi - K1-02)
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Membantu Budi memahami pentingnya adaptasi metode baru tanpa merusak standar kerja. | A: Menurunkan kecemasan akan penurunan kualitas standar. | Validasi rasa tanggung jawab, penjelasan logis, dan usulan uji coba bertahap. | Budi menyetujui uji coba alur baru dalam skala kecil. |
+| Attention | Problem aware (Sadar cara lama kurang efisien). | A: Mengakui kehati-hatian Budi. | Pertanyaan terbuka tentang kendala operasional saat ini. | Budi mau membagikan kekhawatirannya. |
+| Interest | Belum yakin dengan efisiensi alur baru. | K: Memberikan bukti/contoh konkret. | Perbandingan *step-by-step* antara prosedur lama dan baru. | Budi menanyakan detail teknis pelaksanaan. |
+| Desire | Khawatir standar mutu turun. | S: Menawarkan tolok ukur dan kontrol kualitas. | Menyarankan indikator keberhasilan yang jelas dan instrumen kontrol. | Budi meminta draft kriteria evaluasi. |
+| Action | Menunggu kepastian prosedur. | S: Menyepakati langkah uji coba bertahap. | Usulan eksperimen 3 hari dengan prosedur cadangan. | Kesepakatan jadwal uji coba terbatas. |
+
+# C) Skrip Percakapan
+
+### U001 - Mahasiswa - Identifikasi
+Halo, saya Ragawa Bhramastya Aquila S (NIM: 18225037) dari kelas KIPP-01. Hari ini tanggal 15 Oktober 2026 saya siap mengikuti evaluasi Sesi 1 Kasus 1 menggunakan modalitas teks.
+
+### AI001 - Fasilitator - Identifikasi
+Identitas Anda terkonfirmasi, Ragawa. Mari kita mulai Sesi 1. Pilih satu kemampuan yang ingin Anda kembangkan dan jelaskan apa hambatan terbesar Anda dalam memimpin diri sendiri untuk mencapainya.
+
+### U002 - Mahasiswa - Kasus & Tujuan
+Saya ingin mengembangkan kemampuan manajemen fokus dan *deep work* saat menyelesaikan proyek pemrograman. Hambatan terbesar saya adalah sering terdistraksi oleh pesan organisasi dan dorongan untuk mengerjakan hal lain di luar prioritas utama.
+
+### AI002 - Fasilitator - Kasus & Tujuan
+Kebutuhan yang sangat relevan. Mari kita tetapkan indikatornya: Dalam 14 hari ke depan, hasil konkret apa yang ingin Anda capai, dan bagaimana Anda mengukur keberhasilannya?
+
+### U003 - Mahasiswa - Kasus & Tujuan
+Saya menargetkan untuk konsisten menjalankan 2 jam *deep work* per hari tanpa distraksi, serta menyelesaikan kerangka kode utama proyek tepat waktu sebelum tanggal 29 Oktober 2026.
+
+### AI003 - Fasilitator - Dialog Diri
+Bagus. Sekarang mari lakukan dialog diri. Ketika distraksi dari pesan luar datang saat Anda sedang bekerja, pesan spesifik apa yang akan Anda sampaikan kepada diri Anda sendiri untuk tetap fokus?
+
+### U004 - Mahasiswa - Dialog Diri
+Saya akan berkata pada diri sendiri: "Ragawa, fokus dua jam ini adalah prioritas utama untuk masa depanmu. Pesan luar bisa ditanggapi nanti setelah sesi ini selesai tanpa mengurangi rasa tanggung jawabmu."
+
+### AI004 - Fasilitator - Pembanding K1-02 (Budi)
+Sekarang kita uji pemahaman Anda dengan tokoh pembanding Budi (K1-02). Budi menyukai prosedur terstruktur dan berkata: "Cara kerja kita sekarang sudah jelas dan terbukti aman. Mengapa harus mengubah alur dan mengambil risiko?" Bagaimana Anda merespons Budi?
+
+### U005 - Mahasiswa - Simulasi Pembanding
+Halo Budi, saya sangat menghargai komitmenmu dalam menjaga standar kualitas kerja kita. Perubahan ini bukan untuk membongkar sistem yang sudah bagus, melainkan menambah modul efisiensi agar pengerjaan kita bisa lebih cepat tanpa menurunkan kualitas.
+
+### AI005 - Budi (K1-02) - Simulasi Pembanding
+Tapi kalau kita pakai cara baru ini, siapa yang menjamin kualitas hasilnya tidak turun? Saya tidak mau standar kerja kita jadi berantakan hanya karena mengejar kecepatan.
+
+### U006 - Mahasiswa - Simulasi Pembanding
+Poinmu sangat valid, Budi. Bagaimana kalau kita buat aturan kontrol kualitas? Kita uji coba alur baru ini hanya pada 1 modul kecil selama 3 hari. Jika indikator mutunya sesuai dengan standar biasa, baru kita lanjutkan. Jika tidak, kita bisa langsung kembali ke prosedur lama.
+
+### AI006 - Budi (K1-02) - Simulasi Pembanding
+Kalau ada uji coba terbatas dan kontrol mutunya jelas seperti itu, saya bisa terima. Prosedur uji cobanya seperti apa?
+
+### U007 - Mahasiswa - Simulasi Pembanding
+Saya akan susun checklist 3 poin kriteria kelayakan sebelum dan sesudah pengujian. Kita tinjau bersama besok jam 09.00 sebelum uji coba dimulai. Apakah jadwal itu sesuai buatmu?
+
+### AI007 - Budi (K1-02) - Simulasi Pembanding
+Setuju. Kirimkan checklist tersebut besok pagi, nanti saya periksa sebelum kita mulai.
+
+### AI008 - Fasilitator - Evaluasi & Uji Ulang
+Bagus. Sekarang mari kita lakukan uji ulang situasi kepemimpinan diri. Bayangkan minggu depan beban tugas perkuliahanmu mendadak melipat ganda dan ada ajakan rapat mendadak. Tindakan konkret apa yang akan kamu lakukan?
+
+### U008 - Mahasiswa - Uji Ulang
+Saya akan mengevaluasi skala prioritas menggunakan matriks Eisenhower, menjadwalkan ulang rapat non-mendesak dengan komunikasi asertif, dan mempertahankan blok waktu *deep work* 2 jam saya di awal hari.
+
+### AI009 - Fasilitator - Evaluasi & Uji Ulang
+Bagaimana kamu memastikan bahwa tindakan tersebut tidak merusak hubungan sosial dan organisasimu?
+
+### U009 - Mahasiswa - Uji Ulang
+Saya akan menyampaikan alasan secara transparan dan memberikan kepastian waktu kapan saya bisa berkontribusi kembali, sehingga rekan tim tetap merasa dihargai dan mendapatkan kepastian.
+
+### AI010 - Fasilitator - Refleksi
+Apa pelajaran terbesar yang kamu dapatkan mengenai perbedaan antara memimpin diri sendiri dan berkomunikasi dengan orang tipe terstruktur seperti Budi?
+
+### U010 - Mahasiswa - Refleksi
+Memimpin diri membutuhkan ketegasan batas internal dan kesadaran prioritas. Sementara berkomunikasi dengan orang terstruktur seperti Budi membutuhkan validasi atas kekhawatirannya, bukti keamanan, serta usulan uji coba yang terukur.
+
+### AI011 - Fasilitator - Konfirmasi
+Apakah Anda mengonfirmasi bahwa seluruh isi transkrip dan analisis ini sudah sesuai dengan pelaksanaan sesi Anda untuk disimpan sebagai laporan resmi?
+
+### U011 - Mahasiswa - Konfirmasi
+Ya, saya mengonfirmasi bahwa seluruh transkrip dan data laporan ini sudah benar dan sesuai.
+
+### AI012 - Fasilitator - Konfirmasi
+Sesi 1 selesai. File laporan hasil_1_18225037.qmd siap disimpan.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Persepsi/kesimpulan SWOT | Fokus terpecah akibat distraksi eksternal. | Mampu menetapkan batas prioritas dan langkah mitigasi distraksi. | U002 $\rightarrow$ U008 | Laporan diri terstruktur |
+| Attitude | Cemas ketika jadwal terganggu. | Lebih tenang dan fleksibel melalui pendekatan penyelesaian masalah. | U004 $\rightarrow$ U009 | Refleksi diri |
+| Knowledge | Paham konsep time-blocking tetapi eksekusi lemah. | Memahami pentingnya instrumen uji coba dan kontrol kualitas terukur. | U006 $\rightarrow$ U010 | Peragaan konsep |
+| Skill/kesiapan | Keterampilan asertivitas belum terlatih. | Mampu mendemonstrasikan komunikasi asertif dan penjadwalan ulang terstruktur. | U007 $\rightarrow$ U009 | Peragaan verbal simulasi |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U005 | Budi ragu pada efisiensi cara baru (A-rendah). | Menghargai komitmen Budi dan menjelaskan tujuan efisiensi. | Budi mempertanyakan jaminan kualitas (A-meningkat sedikit). | Budi merasa tanggung jawabnya diakui. | Beralih memberikan garansi uji coba dan kontrol kualitas. |
+| U006 | Budi khawatir standar mutu turun (K-butuh bukti). | Menawarkan uji coba 3 hari pada 1 modul kecil dan kontrol mutu. | Budi menyetujui opsi uji coba (S-siap mencoba). | Kekhawatiran Budi teratasi dengan prosedur rasional. | Menyusun *checklist* kriteria kelayakan. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U005–U006 | Validasi atas komitmen mutu Budi serta penawaran *checklist* kontrol bersama. | Keterbukaan Budi meningkat dari penolakan awal menjadi penerimaan syarat uji coba. | Rasa aman: Sedang $\rightarrow$ Tinggi. Kepercayaan: Menyangkut jaminan kualitas terukur. | Budi merasa tidak dipaksa dan hak kontrol mutunya dihormati. |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Beban tugas akademik melipat ganda dan adanya ajakan rapat mendadak (U008). |
+| Respons awal dibanding uji ulang | **Awal:** Merasa kewalahan dan pasif. **Uji Ulang:** Menggunakan Matriks Eisenhower dan komunikasi asertif terstruktur (U008–U009). |
+| Revisi rencana/dukungan | Menyampaikan kejelasan waktu kontribusi secara transparan kepada rekan tim. |
+| Indikator perbaikan | Mampu menjaga jam *deep work* tanpa mengorbankan hubungan profesional. |
+| Transfer dan keterbatasan | Peragaan komunikasi verbal berhasil; pelaksanaan nyata perlu dibuktikan dalam 14 hari ke depan. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U003 | Tujuan SMART terdefinisi secara spesifik dan terukur. |
+| Persepsi dan validasi profil/status | 3 | U005 | Mampu memetakan dan memvalidasi kekhawatiran Budi terkait standar mutu. |
+| Pemilihan dan urutan repertoar | 4 | U005–U007 | Urutan dimulai dari validasi emosi, penjelasan logis, hingga penawaran solusi uji coba. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U006 | Bahasa jelas, menghormati pendirian lawan bicara, dan konsisten fokus pada solusi. |
+| Evaluasi dan adaptasi | 4 | U008–U009 | Mampu beradaptasi secara cepat saat diberikan kendala baru dalam sesi uji ulang. |
+| Refleksi dan lesson learned | 3 | U010 | Mampu merumuskan perbedaan esensial antara memimpin diri dan mempengaruhi orang lain. |
+
+**Nilai sesi:** (3 + 3 + 4 + 3 + 4 + 3) / 24 $\times$ 100 = **83.33 / 100**
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Awalnya mengira Budi menolak perubahan karena kaku, ternyata Budi hanya ingin memastikan kualitas kerja tidak dikorbankan.
+- **Stimulus efektif/tidak efektif:** Menawarkan garansi uji coba dan *checklist* kontrol mutu sangat efektif menurunkan defensivitas Budi.
+- **Pertumbuhan PASK/ASK diri:** Persepsi saya tentang penolakan berubah; dari yang menganggapnya sebagai hambatan menjadi input untuk memperketat kontrol kualitas.
+- **Relasi:** Komunikasi asertif yang disertai kejelasan waktu susulan menjaga kepercayaan dan rasa aman rekan tim.
+- **Pelajaran untuk situasi berikutnya:** Selalu berikan ruang uji coba skala kecil ketika menawarkan metode baru kepada tipe kepribadian terstruktur.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Menjalankan blok *deep work* 2 jam harian | Ragawa | 16–29 Okt 2026 | Aplikasi *Focus Timer* | Jurnal harian pelacakan waktu | Rencana |
+| Menyusun *checklist* kontrol mutu | Ragawa | 16 Okt 2026 | Draf internal | Dokumen *checklist* siap pakai | Rencana |
+
+**Konfirmasi akhir:** Transkrip dan laporan Sesi 1 dikonfirmasi secara sah pada giliran U011.
+
+{{< include "../../includes/uts-penilaian.md" >}}

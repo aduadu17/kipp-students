@@ -1,25 +1,56 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
 ---
 
-## Kompetensi target
+## Target map
 
-Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+| Person | Relevance | Authority | Current state |
+|---|---|---|---|
+| Ketua Kelas / Koordinator Mata Kuliah | Mengelola jadwal dan kendala pengumpulan tugas angkatan | Bisa menyepakati alur pengumpulan alternatif | Problem aware |
+| Anggota Kelompok Lain | Mengalami langsung masalah integrasi draf tugas | Memvalidasi dan menguji alur baru | Problem aware |
+| Asisten Laboratorium / Praktikum | Bertanggung jawab atas ketersediaan modul dan sarana | Menentukan aturan teknis penyerahan | Unaware / Netral |
+| Dosen Pengampu | Menilai hasil akhir tugas | Menyetujui kebijakan resmi penyerahan | Belum dilibatkan |
 
-## Evidence wajib
+Saya memilih **Ketua Kelas / Koordinator Mata Kuliah** sebagai target utama karena memiliki pengalaman langsung dalam mencatat keterlambatan pengumpulan draf dan dapat menjembatani usulan perbaikan alur ke seluruh angkatan.
 
-- Target map dan alasan memilih satu target.
-- Problem/opportunity pitch serta evidence.
-- Response, state sesudah pitch, dan adaptation.
+## Attention pitch
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+> “Dari pemantauan dua minggu terakhir, 4 dari 6 kelompok kelas kita mengalami keterlambatan pengunggahan draf tugas karena alur integrasi file di obrolan grup terpisah-pisah. Akibatnya, ada 3 kali pengiriman file versi lama yang tidak sengaja terunggah ke portal. Saya belum mengusulkan penggantian platform, tetapi bolehkah kita memeriksa apakah masalah utamanya ada pada kejelasan batasan revisi dan penamaan file?”
 
-{{< include ../includes/evidence-template.md >}}
+Data yang digunakan: Catatan waktu unggah draf dari 6 kelompok dan rekapitulasi kesalahan versi file di grup obrolan angkatan.
+
+## Response dan state assessment
+
+Ketua kelas merespons: *“Masalah bentrok versi file memang sering terjadi, tapi biasanya karena mahasiswa baru pengerjaannya mendekati jam tenggat. Apakah penyeragaman nama file benar-benar bisa menyelesaikan masalah itu?”*
+
+Respons ini menunjukkan target menyadari adanya masalah, namun meragukan efektivitas penyeragaman format sebagai solusi utama. *State* target bergeser dari **Problem aware** menjadi **Attention dengan reservasi**.
+
+**Adaptasi komunikasi:**
+> “Sangat setuju, faktor pengerjaan di akhir waktu memang berpengaruh. Bisakah kita mencoba menerapkan aturan format penamaan file sederhana di 2 kelompok dulu minggu ini untuk melihat apakah tingkat kesalahan unggah file berkurang?”
+
+Ketua kelas menyetujui uji coba (*pilot test*) terbatas pada 2 kelompok untuk tugas minggu depan.
+
+## Evidence dan refleksi
+
+- Bukti target map sebelum dan sesudah wawancara *pitching*.
+- Tangkapan layar kesepakatan uji coba format penamaan file bersama Ketua Kelas lewat obrolan WhatsApp.
+- Kesepakatan: Penilaian keberhasilan uji coba didasarkan pada ketepatan versi file yang dikirimkan pada tugas berikutnya.
+- **Penggunaan AI:** AI digunakan untuk menyederhanakan struktur *attention pitch* agar dapat disampaikan di bawah 40 detik tanpa menambah data fiktif.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Target dipilih berdasarkan relevansi peran dan otoritas koordinasi |
+| Objective & State | 3 | Perubahan respon target dari ragu menjadi setuju dicatat eksplisit |
+| Repertoire, Language & AI | 3 | Menggunakan data konkret, pitch ringkas, dan validasi AI transparan |
+| Response & Adaptation | 4 | Mengubah target kesepakatan dari seluruh kelas menjadi uji coba 2 kelompok |
+| Agreement, Action & Relationship | 3 | Menyepakati uji coba format file terbatas untuk pengerjaan tugas minggu depan |
+
+**Total: 16/20 — Kompeten.**
