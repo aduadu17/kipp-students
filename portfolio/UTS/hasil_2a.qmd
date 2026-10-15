@@ -30,7 +30,7 @@ execute:
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
-Tugas kelompok memiliki tenggat waktu 48 jam. Dimas (rekan dekat) belum mengirimkan bagiannya dan merasa pembagian kerja tidak adil. Ragawa perlu melakukan dialog untuk menjaga hubungan persahabatan sekaligus memastikan kesepakatan penyerahan tugas secara tepat waktu.
+Tugas kelompok memiliki tenggat waktu 48 jam. Rekan dekat (Dimas) belum mengirimkan bagiannya dan merasa pembagian kerja tidak adil. Ragawa perlu mengajak percakapan untuk menjaga hubungan persahabatan sekaligus menyepakati tanggung jawab penyerahan tugas secara tepat waktu.
 
 ## Profil awal komunikator
 
@@ -39,7 +39,7 @@ Tugas kelompok memiliki tenggat waktu 48 jam. Dimas (rekan dekat) belum mengirim
 | SWOT subjektif | **Ancaman:** Meragukan keadilan beban kerja. **Kekuatan:** Analisis data teknis kuat. | U001, U002 | Sementara |
 | Attitude | Skeptis terhadap klaim, menghargai kejelasan dan otonomi. | U001 | Sementara |
 | Knowledge | Informasi konteks teknis belum lengkap (akses file & lokasi). | U005, U006 | Sementara |
-| Skill | Mampu melakukan analisis mendalam, butuh ruang kerja mandiri. | U002 | Sementara |
+| Skill | Mampu analisis mendalam, butuh ruang kerja mandiri. | U002 | Sementara |
 | Preferensi/MBTI | INTJ (Logika ringkas, berbasis bukti, otonom) | Observasi | Hipotesis |
 | Karakter, peran, kultur | Penilai teknis; menghargai alasan kritis dan keadilan objektif. | Profil K2-04 | Sementara |
 
@@ -47,7 +47,7 @@ Tugas kelompok memiliki tenggat waktu 48 jam. Dimas (rekan dekat) belum mengirim
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | Kesepakatan pembagian tugas dan tanggung jawab | A (Fairness/Otonomi) | Tawarkan pembagian berbasis kompetensi dan ruang mandiri | U003, U004 |
+| Target | Kesepakatan pembagian tugas dan tanggung jawab | A (Fairness/Otonomi) | Tawarkan pembagian berbasis kompetensi & ruang mandiri | U003, U004 |
 | Attention | Skeptis terhadap beban kerja | A (Validasi emosi) | Empati terhadap beban dan waktu analisis | U002 |
 | Interest | Informasi teknis belum lengkap | K (Klarifikasi file) | Sediakan detail akses & file pendukung | U005, U006 |
 | Desire | Kebutuhan ruang kerja mandiri | S (Dukungan teknis) | Berikan akses lokasi & kartu testbed | U007 |
